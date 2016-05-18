@@ -7,6 +7,6 @@ A dark and luminous theme for the fantastic Alfred 3 productivity tool (www.alfr
 
 ![Alfred 3 Quick Calculations][exampleCalculation]
 
-[exampleText]: /Examples/luminousdark-example-text.png "Luminous Dark Theme"
+[exampleText]: /Examples/luminousdark-example-text.png "Luminous Dark Theme - Text search in Alfred"
 
-[exampleCalculation]: /Examples/luminousdark-example-calculation.png "Luminous Dark Theme"
+[exampleCalculation]: /Examples/luminousdark-example-calculation.png "Luminous Dark Theme - Calculations in Alfred"
